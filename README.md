@@ -125,11 +125,8 @@
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><a
   href="https://github.com/ML-rus/ML_projects/tree/main/food_service">Исследование
-  рынка заведений</a></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  class=MsoHyperlink><a
-  href="https://github.com/ML-rus/ML_projects/tree/main/food_service">общественного
-  питания Москвы.</a></span></p>
+  рынка заведений общественного
+  питания Москвы.</a></p>
   </td>
   <td width=208 valign=top style='width:155.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
