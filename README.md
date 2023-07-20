@@ -40,11 +40,7 @@
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=EN-US>Jupyter, Python, Pandas, </span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=EN-US>Datetime, Numpy, Matplotlib, </span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=EN-US>Scipy.stats.</span></p>
+  lang=EN-US>Jupyter, Python, Pandas, Datetime, Numpy, Matplotlib, Scipy.stats.</span></p>
   </td>
  </tr>
  <tr>
@@ -67,9 +63,7 @@
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=EN-US>Jupyter, Python, Pandas, </span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=EN-US>Plotly, Numpy, Matplotlib, Scipy.</span></p>
+  lang=EN-US>Jupyter, Python, Pandas, Plotly, Numpy, Matplotlib, Scipy</span></p>
   </td>
  </tr>
  <tr>
@@ -91,11 +85,7 @@
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=EN-US>Jupyter, Pandas, Pandas,</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=EN-US>Numpy, Datetime, Matplotlib, </span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=EN-US>Seaborn.</span></p>
+  lang=EN-US>Jupyter, Pandas, Pandas, Numpy, Datetime, Matplotlib, Seaborn.</span></p>
   </td>
  </tr>
  <tr>
@@ -141,9 +131,7 @@
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=EN-US>Jupyter, Python, Pandas,</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=EN-US>Matplotlib, Numpy, Json, Requests, Urllib, Folium.</span></p>
+  lang=EN-US>Jupyter, Python, Pandas, Matplotlib, Numpy, Json, Requests, Urllib, Folium.</span></p>
   </td>
  </tr>
 </table>
