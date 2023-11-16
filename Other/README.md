@@ -25,7 +25,7 @@
   <td width=208 valign=top style='width:155.75pt;border:solid windowtext 1.0pt;
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><a
-  href="https://github.com/ML-rus/ML_projects/tree/main/AB_test">Приоритизация
+  href="https://github.com/ML-rus/ML_projects/tree/main/Other/AB_test">Приоритизация
   гипотез и анализ результатов A/B-теста.</a></p>
   </td>
   <td width=208 valign=top style='width:155.75pt;border-top:none;border-left:
@@ -47,7 +47,7 @@
   <td width=208 valign=top style='width:155.75pt;border:solid windowtext 1.0pt;
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><a
-  href="https://github.com/ML-rus/ML_projects/tree/main/games">Выявление
+  href="https://github.com/ML-rus/ML_projects/tree/main/Other/Games">Выявление
   закономерностей, определяющих успешность игры, на основе данных из открытых
   источников о продажах игр.</a></p>
   </td>
@@ -70,7 +70,7 @@
   <td width=208 valign=top style='width:155.75pt;border:solid windowtext 1.0pt;
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><a
-  href="https://github.com/ML-rus/ML_projects/tree/main/mob_app">Анализ
+  href="https://github.com/ML-rus/ML_projects/tree/main/Other/Mob_app">Анализ
   развлекательного приложения <span lang=EN-US>Procrastinate</span><span
   lang=EN-US> </span><span lang=EN-US>Pro</span>+.</a></p>
   </td>
@@ -92,7 +92,7 @@
   <td width=208 valign=top style='width:155.75pt;border:solid windowtext 1.0pt;
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><a
-  href="https://github.com/ML-rus/ML_projects/tree/main/mob_funnel">Анализ
+  href="https://github.com/ML-rus/ML_projects/tree/main/Other/Mob_funnel">Анализ
   поведения пользователей мобильного приложения.</a></p>
   </td>
   <td width=208 valign=top style='width:155.75pt;border-top:none;border-left:
@@ -114,7 +114,7 @@
   <td width=208 valign=top style='width:155.75pt;border:solid windowtext 1.0pt;
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><a
-  href="https://github.com/ML-rus/ML_projects/tree/main/food_service">Исследование
+  href="https://github.com/ML-rus/ML_projects/tree/main/Other/Food_service">Исследование
   рынка заведений общественного
   питания Москвы.</a></p>
   </td>
