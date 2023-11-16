@@ -36,6 +36,6 @@
 
 Теперь все.
 
-<hr width="70%" size="10" align="right" color="darkgrey" noshade> 
+<hr width="70%" size="10" align="left" color="black" noshade> 
 
 <i>P.S. Вся информация актуальна по состоянию на конец 2023 года.</i>
