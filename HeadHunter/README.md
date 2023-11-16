@@ -36,6 +36,17 @@
 
 Теперь все.
 
-<hr width="70%" size="10" align="left" color="black" noshade> 
+<hr class="hr-double">
+ 
+<style>
+.hr-double {
+	margin: 20px 0;
+	padding: 0;
+	height: 1px;
+	border: none;
+	border-top: 1px solid #333;
+	border-bottom: 1px solid #333;
+}
+</style>
 
 <i>P.S. Вся информация актуальна по состоянию на конец 2023 года.</i>
