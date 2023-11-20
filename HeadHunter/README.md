@@ -8,7 +8,7 @@
 
 ### Файлы.
 <a href="https://github.com/ML-rus/ML_projects/blob/main/HeadHunter/Get_hh_token_from_server.ipynb">`Get_hh_token_from_server.ipynb`</a> - получение токена HeadHunter.
-<a href="https://github.com/ML-rus/ML_projects/blob/main/HeadHunter/My_hh.ipynb">`My_hh.ipynb`</a> - Авторизация, запрос и обработка ответа сервера.
+<br><a href="https://github.com/ML-rus/ML_projects/blob/main/HeadHunter/My_hh.ipynb">`My_hh.ipynb`</a> - Авторизация, запрос и обработка ответа сервера.
 
 ### Часть I. Подготовительная работа.
 
