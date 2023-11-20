@@ -1,5 +1,4 @@
-# ML_projects
-В репозитарии находятся учебные проекты, выполненные в период обучения.
+# Учебные проекты, выполненные в период обучения в YandezPracticum.
 <p class=MsoNormal>Мои проекты:</p>
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
