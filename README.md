@@ -2,10 +2,8 @@
 
 <table width="100%" border="0">
   <tr>
-    <td><font size="4">
     <p style="font-size:24px"><a href="https://github.com/ML-rus/ML_projects/tree/main/HeadHunter">1. HeadHunter. Парсинг вакансий на Python.</a>
     </p>
-    </font>
     <p><b>Описание:</b>
     <br>Процесс создания полностью - от регистрации приложения (скрипта) и получения авторизации  до парсинга. Кода мало, зато полностью законченная реализация.
     </p>
