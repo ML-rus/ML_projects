@@ -1,4 +1,4 @@
-# Учебные проекты, выполненные в период обучения в YandezPracticum.
+# Учебные проекты, выполненные в период обучения в YandexPracticum.
 <p class=MsoNormal>Мои проекты:</p>
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
