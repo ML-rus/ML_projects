@@ -4,10 +4,10 @@
   <tr>
     <td><p><a href="https://github.com/ML-rus/ML_projects/tree/main/HeadHunter">1. HeadHunter. Парсинг вакансий на Python.</a>
     </p>
-    <p><b>Описание.</b>
+    <p><b>Описание:</b>
     <br>Процесс создания полностью - от регистрации приложения (скрипта) и получения авторизации  до парсинга. Кода мало, зато полностью законченная реализация.
     </p>
-    <p><b>Stack.</b>
+    <p><b>Stack:</b>
     <br>- pandas 
     <br>- pyperclip 
     <br>- requests
