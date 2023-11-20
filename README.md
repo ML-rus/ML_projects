@@ -8,12 +8,12 @@
     <br>Процесс создания полностью - от регистрации приложения (скрипта) и получения авторизации  до парсинга. Кода мало, зато полностью законченная реализация.
     </p>
     <p><b>Stack.</b>
-    pandas 
-    pyperclip 
-    requests
-    re
-    datetime.date
-    time.sleep
+    <br>- pandas 
+    <br>- pyperclip 
+    <br>- requests
+    <br>- re
+    <br>- datetime.date
+    <br>- time.sleep
     </p></td>
   </tr>
   <tr>
